@@ -1,2 +1,2 @@
 ﻿var googleApiKey = testKey
-var dsKey = testKey;
+var dsKey = changedKey;
