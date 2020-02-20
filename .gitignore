@@ -353,4 +353,4 @@ MigrationBackup/
 .ionide/
 
 *.config
-keys.js
+Scripts/keys.js
